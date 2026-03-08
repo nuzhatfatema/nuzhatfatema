@@ -19,4 +19,4 @@ I build scalable and modern full stack web applications using MERN Stack.
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com
+* LinkedIn: https://www.linkedin.com/in/nuzhat-fatema-077239348/
