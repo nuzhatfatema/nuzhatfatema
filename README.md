@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nuzhat Fatema 👋
 
-<!--
-**nuzhatfatema/nuzhatfatema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack MERN Developer
 
-Here are some ideas to get you started:
+I build scalable and modern full stack web applications using MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* Frontend: React.js, JavaScript, Tailwind CSS
+* Backend: Node.js, Express.js
+* Database: MongoDB, MySQL
+* Tools: Git, GitHub, VS Code, Postman
+
+## 📌 Current Focus
+
+* Full Stack Projects
+* Production Level UI
+* Backend Architecture
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com
