@@ -6,9 +6,9 @@ I build scalable and modern full stack web applications using MERN Stack.
 
 ## 💻 Tech Stack
 
-* Frontend: React.js, JavaScript, Tailwind CSS
+* Frontend: React.js, JavaScript, HTML, CSS3
 * Backend: Node.js, Express.js
-* Database: MongoDB, MySQL
+* Database: MongoDB
 * Tools: Git, GitHub, VS Code, Postman
 
 ## 📌 Current Focus
