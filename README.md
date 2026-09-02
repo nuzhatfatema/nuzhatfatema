@@ -2,21 +2,34 @@
 
 ## 🚀 Full Stack MERN Developer
 
-I build scalable and modern full stack web applications using MERN Stack.
+I build full-stack web applications using React.js, Node.js, Express.js, and MongoDB — from schema design through deployment.
 
-## 💻 Tech Stack
+## 🔥 Featured Project
 
-* Frontend: React.js, JavaScript, HTML, CSS3
-* Backend: Node.js, Express.js
-* Database: MongoDB
-* Tools: Git, GitHub, VS Code, Postman
+### [ExpenseWise – Personal Budget Tracker with Analytics](YOUR_LIVE_DEMO_LINK)
+A full-stack personal finance tracker with 26 REST API endpoints across 6 modules, MongoDB aggregation-powered analytics, JWT authentication with a secure password-reset flow, and automated email alerts.
+- **Frontend**: React.js, React Router, Context API, Recharts
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt
+- **Integrations**: Cloudinary, Nodemailer, PDFKit, json2csv
+- 🔗 [Frontend Repo](LINK) | [Backend Repo](LINK) | [Live Demo](LINK)
 
-## 📌 Current Focus
+### [Matoshri College Management System](YOUR_LIVE_DEMO_LINK)
+A full-stack college management platform with 20 API endpoints, 6 Mongoose models, and role-based JWT authentication across administration, faculty, gallery, and notification modules.
+- 🔗 [Frontend Repo](LINK) | [Backend Repo](LINK) | [Live Demo](LINK)
 
-* Full Stack Projects
-* Production Level UI
-* Backend Architecture
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, React Router, Context API, Recharts
+**Backend:** Node.js, Express.js, RESTful APIs, MVC Architecture
+**Database:** MongoDB, Mongoose, Aggregation Pipelines
+**Auth & Security:** JWT, bcrypt, Secure Password Reset
+**Tools:** Git, GitHub, Postman, Cloudinary, Nodemailer, Vercel, MongoDB Atlas
+
+## 📌 Currently Looking For
+
+Junior MERN Stack / Full Stack Developer opportunities
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/nuzhat-fatema-077239348/
+- LinkedIn: https://www.linkedin.com/in/nuzhat-fatema-077239348/
+- Email: nuzhatf.dev@gmail.com
