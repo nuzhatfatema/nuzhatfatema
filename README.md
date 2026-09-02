@@ -11,11 +11,11 @@ A full-stack personal finance tracker with 26 REST API endpoints across 6 module
 - **Frontend**: React.js, React Router, Context API, Recharts
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt
 - **Integrations**: Cloudinary, Nodemailer, PDFKit, json2csv
-- 🔗 [Frontend Repo](LINK) | [Backend Repo](LINK) | [Live Demo](https://expense-wise-frontend-steel.vercel.app/)
+- 🔗 [Frontend Repo](https://github.com/nuzhatfatema/ExpenseWise-Frontend) | [Backend Repo](https://github.com/nuzhatfatema/ExpenseWise-Backend) | [Live Demo](https://expense-wise-frontend-steel.vercel.app/)
 
 ### [Matoshri College Management System](https://matoshri-frontend.vercel.app/)
 A full-stack college management platform with 20 API endpoints, 6 Mongoose models, and role-based JWT authentication across administration, faculty, gallery, and notification modules.
-- 🔗 [Frontend Repo](LINK) | [Backend Repo](LINK) | [Live Demo](https://matoshri-frontend.vercel.app/)
+- 🔗 [Frontend Repo](https://github.com/nuzhatfatema/matoshri-frontend) | [Backend Repo](https://github.com/nuzhatfatema/matoshri-backend) | [Live Demo](https://matoshri-frontend.vercel.app/)
 
 ## 🛠️ Tech Stack
 
